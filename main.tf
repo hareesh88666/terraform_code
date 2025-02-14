@@ -20,6 +20,6 @@ instance_type = "t2.micro"
 security_groups = ["launch-wizard-1"]
 key_name = "Latest"
 tags = {
-Name =  "tomcatservers"
+Name =  "TFC_test_VM"
 }
 }
